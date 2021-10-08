@@ -1,3 +1,4 @@
+using BoutiqueCsharp.Models;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
@@ -16,6 +17,8 @@ namespace BoutiqueCsharp
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddScoped<IPieRepository, MockPieRepository>();
+            services.AddScoped<ICategoryRepository, MockCategoryRepository>();
             services.AddControllersWithViews();
         }
 
@@ -35,7 +38,7 @@ namespace BoutiqueCsharp
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id}");
+                    pattern: "{controller=Home}/{action=Index}/{id?}");
             });
         }
     }

@@ -6,7 +6,6 @@ C:\Users\gloriaestefania.lope\Desktop\Personnel\C#\BoutiqueCsharp\BoutiqueCsharp
 C:\Users\gloriaestefania.lope\Desktop\Personnel\C#\BoutiqueCsharp\BoutiqueCsharp\bin\Debug\netcoreapp3.1\BoutiqueCsharp.runtimeconfig.dev.json
 C:\Users\gloriaestefania.lope\Desktop\Personnel\C#\BoutiqueCsharp\BoutiqueCsharp\bin\Debug\netcoreapp3.1\BoutiqueCsharp.dll
 C:\Users\gloriaestefania.lope\Desktop\Personnel\C#\BoutiqueCsharp\BoutiqueCsharp\bin\Debug\netcoreapp3.1\BoutiqueCsharp.pdb
-C:\Users\gloriaestefania.lope\Desktop\Personnel\C#\BoutiqueCsharp\BoutiqueCsharp\obj\Debug\netcoreapp3.1\BoutiqueCsharp.csproj.AssemblyReference.cache
 C:\Users\gloriaestefania.lope\Desktop\Personnel\C#\BoutiqueCsharp\BoutiqueCsharp\obj\Debug\netcoreapp3.1\BoutiqueCsharp.AssemblyInfoInputs.cache
 C:\Users\gloriaestefania.lope\Desktop\Personnel\C#\BoutiqueCsharp\BoutiqueCsharp\obj\Debug\netcoreapp3.1\BoutiqueCsharp.AssemblyInfo.cs
 C:\Users\gloriaestefania.lope\Desktop\Personnel\C#\BoutiqueCsharp\BoutiqueCsharp\obj\Debug\netcoreapp3.1\BoutiqueCsharp.csproj.CoreCompileInputs.cache
@@ -18,3 +17,18 @@ C:\Users\gloriaestefania.lope\Desktop\Personnel\C#\BoutiqueCsharp\BoutiqueCsharp
 C:\Users\gloriaestefania.lope\Desktop\Personnel\C#\BoutiqueCsharp\BoutiqueCsharp\obj\Debug\netcoreapp3.1\BoutiqueCsharp.dll
 C:\Users\gloriaestefania.lope\Desktop\Personnel\C#\BoutiqueCsharp\BoutiqueCsharp\obj\Debug\netcoreapp3.1\BoutiqueCsharp.pdb
 C:\Users\gloriaestefania.lope\Desktop\Personnel\C#\BoutiqueCsharp\BoutiqueCsharp\obj\Debug\netcoreapp3.1\BoutiqueCsharp.genruntimeconfig.cache
+C:\Users\gloriaestefania.lope\Desktop\Personnel\C#\BoutiqueCsharp\BoutiqueCsharp\obj\Debug\netcoreapp3.1\BoutiqueCsharp.RazorAssemblyInfo.cache
+C:\Users\gloriaestefania.lope\Desktop\Personnel\C#\BoutiqueCsharp\BoutiqueCsharp\obj\Debug\netcoreapp3.1\BoutiqueCsharp.RazorAssemblyInfo.cs
+C:\Users\gloriaestefania.lope\Desktop\Personnel\C#\BoutiqueCsharp\BoutiqueCsharp\obj\Debug\netcoreapp3.1\BoutiqueCsharp.TagHelpers.input.cache
+C:\Users\gloriaestefania.lope\Desktop\Personnel\C#\BoutiqueCsharp\BoutiqueCsharp\obj\Debug\netcoreapp3.1\BoutiqueCsharp.TagHelpers.output.cache
+C:\Users\gloriaestefania.lope\Desktop\Personnel\C#\BoutiqueCsharp\BoutiqueCsharp\obj\Debug\netcoreapp3.1\BoutiqueCsharp.RazorCoreGenerate.cache
+C:\Users\gloriaestefania.lope\Desktop\Personnel\C#\BoutiqueCsharp\BoutiqueCsharp\obj\Debug\netcoreapp3.1\Razor\Views\Pie\List.cshtml.g.cs
+C:\Users\gloriaestefania.lope\Desktop\Personnel\C#\BoutiqueCsharp\BoutiqueCsharp\obj\Debug\netcoreapp3.1\BoutiqueCsharp.RazorTargetAssemblyInfo.cs
+C:\Users\gloriaestefania.lope\Desktop\Personnel\C#\BoutiqueCsharp\BoutiqueCsharp\bin\Debug\netcoreapp3.1\BoutiqueCsharp.Views.dll
+C:\Users\gloriaestefania.lope\Desktop\Personnel\C#\BoutiqueCsharp\BoutiqueCsharp\bin\Debug\netcoreapp3.1\BoutiqueCsharp.Views.pdb
+C:\Users\gloriaestefania.lope\Desktop\Personnel\C#\BoutiqueCsharp\BoutiqueCsharp\obj\Debug\netcoreapp3.1\BoutiqueCsharp.Views.pdb
+C:\Users\gloriaestefania.lope\Desktop\Personnel\C#\BoutiqueCsharp\BoutiqueCsharp\obj\Debug\netcoreapp3.1\BoutiqueCsharp.csproj.CopyComplete
+C:\Users\gloriaestefania.lope\Desktop\Personnel\C#\BoutiqueCsharp\BoutiqueCsharp\obj\Debug\netcoreapp3.1\BoutiqueCsharp.csproj.AssemblyReference.cache
+C:\Users\gloriaestefania.lope\Desktop\Personnel\C#\BoutiqueCsharp\BoutiqueCsharp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\gloriaestefania.lope\Desktop\Personnel\C#\BoutiqueCsharp\BoutiqueCsharp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\gloriaestefania.lope\Desktop\Personnel\C#\BoutiqueCsharp\BoutiqueCsharp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs

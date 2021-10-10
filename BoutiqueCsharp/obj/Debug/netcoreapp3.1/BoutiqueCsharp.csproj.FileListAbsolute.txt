@@ -76,4 +76,6 @@ C:\Users\gloriaestefania.lope\Desktop\Personnel\C#\BoutiqueCsharp\BoutiqueCsharp
 C:\Users\gloriaestefania.lope\Desktop\Personnel\C#\BoutiqueCsharp\BoutiqueCsharp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_PieCard.cshtml.g.cs
 C:\Users\gloriaestefania.lope\Desktop\Personnel\C#\BoutiqueCsharp\BoutiqueCsharp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\gloriaestefania.lope\Desktop\Personnel\C#\BoutiqueCsharp\BoutiqueCsharp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Carousel.cshtml.g.cs
-C:\Users\gloriaestefania.lope\Desktop\Personnel\C#\BoutiqueCsharp\BoutiqueCsharp\obj\Debug\netcoreapp3.1\BoutiqueCsharp.csproj.AssemblyReference.cache
+C:\Users\gloriaestefania.lope\Desktop\Personnel\C#\BoutiqueCsharp\BoutiqueCsharp\obj\Debug\netcoreapp3.1\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+C:\Users\gloriaestefania.lope\Desktop\Personnel\C#\BoutiqueCsharp\BoutiqueCsharp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
+C:\Users\gloriaestefania.lope\Desktop\Personnel\C#\BoutiqueCsharp\BoutiqueCsharp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CategoryMenu\Default.cshtml.g.cs
